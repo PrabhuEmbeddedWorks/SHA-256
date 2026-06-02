@@ -1,4 +1,4 @@
-# SHA256-FPGA
+# SHA-256
 
 ## Overview
 
